@@ -4,7 +4,6 @@ import PyQt5.QtCore as qc
 import screeninfo as si
 import sys
 from visuals.visual_functions import *
-# from visual_functions import *
 
 
 class widget_settings(qw.QWidget):
