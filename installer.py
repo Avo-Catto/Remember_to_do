@@ -12,6 +12,6 @@ if not os.path.exists("C:/AVCDO-File/Remember_To_Do"):
     shutil.copytree(current_path, "C:/AVCDO-File/Remember_To_Do")
     print("Installation was successful!")
 else:
-    print("An error occured, please contact Avo-Catto#6922 on discord")
+    print("An error occurred!")
 
 input()
